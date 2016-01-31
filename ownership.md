@@ -1,5 +1,7 @@
 # Rust: Safe with efficiency
 
+> I'm writing this post in Onenote. You can visit my latest work [there](https://onedrive.live.com/redir?page=view&resid=AC248F4C0C749874!1627&authkey=!AIF2G_Q_9-XVKKI). 
+
 ## Overview
 Well, there have been a lot of great articles about rust's ownership system, including the [Rust Book]([2]) and its [future iteration][3], which contains some chapters about Ownership. However, most of them focus on the rules we should follow. This post is aimed to talk about the ownership in a higher level - Not only the rules, but also how it works.
 ### Related work, and why Rust is better
