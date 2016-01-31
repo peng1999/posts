@@ -1,2 +1,2 @@
-# posts
-My Posts
+# Posts
+我的文章
