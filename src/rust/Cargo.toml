@@ -1,0 +1,6 @@
+[package]
+name = "ex"
+version = "0.1.0"
+authors = ["彭冠文 <pgw1999@foxmail.com>"]
+
+[dependencies]
